@@ -1,5 +1,5 @@
-***Skyvanta***
-Skyvanta is a modern weather intelligence platform built with Django. It delivers real-time atmospheric insights—temperature, sky conditions, and visual forecasts—for any city worldwide.
+***Weather-app***
+Weather-app is a modern weather intelligence platform built with Django. It delivers real-time atmospheric insights—temperature, sky conditions, and visual forecasts—for any city worldwide.
 
 Features
 
